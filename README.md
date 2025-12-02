@@ -107,7 +107,7 @@ High-clarity diagrams used in the presentation.
 
 ----------
 
-## 🧪 How to Run the Simulations
+##  How to Run the Simulations
 
 ### **Python files (.ipynb)**
 
@@ -141,15 +141,15 @@ pyplot
 
 ----------
 
-## 🧠 Key Features of the Solution
+##  Key Features of the Solution
 
-✔ **Bio-inspired deterrence** (flicker + polarization + IR)  
-✔ **Sensor-based detection** for early bird approach  
-✔ **3-module signal pipeline** (path distortion → Doppler → IR)  
-✔ **Weather-resilient design**  
-✔ **Operates within cost + weight constraints**  
-✔ **Optimized for medical drone missions**  
-✔ **Simulation-driven validation**
+ - **Bio-inspired deterrence** (flicker + polarization + IR)  
+ - **Sensor-based detection** for early bird approach  
+ - **3-module signal pipeline** (path distortion → Doppler → IR)  
+ - **Weather-resilient design**  
+ - **Operates within cost + weight constraints**  
+ - **Optimized for medical drone missions**  
+ - **Simulation-driven validation**
 
 ----------
 
