@@ -1,0 +1,16 @@
+When I first looked at the AeroHack challenge, I honestly felt it was beyond my knowledge. But as always, I choose to face challenges regardless of the outcome. I decided to break it down and give it my best.
+
+I began by carefully analyzing the problem statement. I started learning the basics of drones, especially how they function in complex terrains. Initially, I misunderstood the task — I thought we had to design an entire drone within ₹50,000 and 1.5 kg. Later, I realized that the actual task was to design just the deterrence system, which gave me a clearer direction.
+
+As I researched existing solutions, I noticed most relied on sound, flashing lights, or predator-shaped decoys. These felt repetitive and predictable. That’s when I decided to approach it from my domain — Electronics and Communication Engineering.
+
+I started exploring biologically inspired, sensor-driven systems using IMUs, SDRs, polarization effects, IR modules, and more. Slowly, a modular deterrence system began to take shape in my mind. Each module had its own logic, and together, they worked as a layered, adaptive defense.
+
+I’m truly grateful for this challenge. Over the past week, I’ve spent time every day thinking, researching, simulating, and designing. Each day I realized how differently I had started to think — more systemically, more creatively. This has been one of the most intellectually rewarding challenges I’ve faced.
+
+Huge thanks to the Collins Aerospace team and AeroHack 2025 for giving me an opportunity to discover my true potential.
+
+
+Submitted with gratitude,
+Amirtha K
+Madras Institute of Technology
